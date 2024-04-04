@@ -1,2 +1,2 @@
 # coletetor-de-impressoras
-Projeto que coleta o quanto foi impresso por cada impressora cadastrada no banco de dados, além disso ele printa a pagina e salva na área de trabalho. Juntamente com o arquivo que armazena as informações
+Este código é uma aplicação de gerenciamento de impressoras usando a biblioteca Tkinter. Ele cria uma interface gráfica para adicionar, editar, excluir e coletar informações sobre impressoras. Lembre-se de configurar o banco de dados SQLite com as informações corretas das impressoras e ajustar a interface do usuário conforme necessário.
